@@ -1,6 +1,6 @@
 # Simple Markdown 
 
-## ++1. 标题++
+## 1. 标题
 ### 1.1 写法：
     一级标题: # Text
     二级标题: ## Text
@@ -17,7 +17,7 @@
 ##### Text
 ###### Text
 
-## ++2. 字体调整++
+## 2. 字体调整
 ### 2.1 写法：
     字体: <font face="黑体" color=green size=5>Text</font>
     加粗: **Text** 
@@ -47,7 +47,7 @@
 - [ ] Text
 - [x] Text
 
-## ++4. 各类链接++
+## 4. 各类链接
 ### 4.1 写法：
     超链接: [](url)
     图片: ![caption](url)
@@ -66,7 +66,7 @@ E = mc^2
  Code 
 ```
 
-## ++5. 列表表格++
+## 5. 列表表格
 ### 5.1 写法：
     无序列表: - Text or * Text or + Text
     有序列表: 1. Text
@@ -87,7 +87,7 @@ header 1 | header 2 |
 row 1 col 1 | row 1 col 2
 row 2 col 1 | row 2 col 2
 
-## ++6. 流程图++
+## 6. 流程图
 ### 6.1 横向流程图
     ```
     graph LR
